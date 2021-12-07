@@ -1,4 +1,4 @@
-# The Complete-Dart-Guide
+# The Complete-Dart-Guide (In Progress - Will get updated with time)
 
 Includes null safety dart2 as well covering all the basics to advanced topics with detailed information.
 
