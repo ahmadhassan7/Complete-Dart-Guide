@@ -1,6 +1,8 @@
 // Lists is also knows as Array in other programming languages like C++, Python etc.
 
 // Note: To check each please comment others and run the specific one you want to see how it works
+
+// Lists can contain duplicate values as well but the alternative of list is sets and in sets we cant have duplicate values
 void main() {
   var names = [
     'Sheep',
